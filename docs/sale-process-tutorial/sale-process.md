@@ -50,4 +50,6 @@ sidebar_position: 1
 
 7. Tick the button to confirm the details, save and verify to complete a client creation.
 
+- "save" is saving the draft for now
+
 ![details pic](../../static/img/instruction/client-complete.png)
