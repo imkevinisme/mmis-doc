@@ -47,7 +47,7 @@ sidebar_position: 3
 
 ### III. Check it in sale transactions in admin or teller
 
-- Bear it mind only admin can check transaction in both admin and teller.
+- Bear it mind only admin can check transaction in both admin and teller transactions.
 
 1. First you need to login to admin or teller with your username and password.
 
