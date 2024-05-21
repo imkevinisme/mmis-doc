@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Claim - Approve claim
+# Approve claim
 
-### Approve claim at admin
+## Approve claim at admin
 
 ---
 

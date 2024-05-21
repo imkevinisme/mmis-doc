@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Claim - Apply claim
+# Apply claim
 
-### Apply claim at teller
+## Apply claim at teller
 
 ---
 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Sale - Check transactions
+# Check transactions
 
 ### Check transactions
 

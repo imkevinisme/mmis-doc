@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Customer creation
 
-### Customer creation 
+## Customer creation 
 
 ---
 

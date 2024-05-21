@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Sale - Create customer
+# Create customer
 
 ### Create client 
 
