@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Claim process - Step one
+# Claim - Apply claim
+
+### Apply claim at teller
 
 ---
-
-## Apply claim at teller
 
 1. First you need to login to teller.mmis.ounch.com with your username and password.
 

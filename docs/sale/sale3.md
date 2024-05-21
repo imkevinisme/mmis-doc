@@ -2,7 +2,11 @@
 sidebar_position: 3
 ---
 
-# Sale process - Step three
+# Sale - Check transactions
+
+### Check transactions
+
+- Three way to check transactions
 
 ---
 

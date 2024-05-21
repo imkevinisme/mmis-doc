@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Claim process - Step two
+# Claim - Approve claim
+
+### Approve claim at admin
 
 ---
-
-## Approve claim at admin
 
 1. First you need to login to admin.mmis.ounch.com with your username and password.
 

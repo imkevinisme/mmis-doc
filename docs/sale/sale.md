@@ -2,11 +2,14 @@
 sidebar_position: 1
 ---
 
-# Sale process - Step one
+# Sale - Create customer
+
+### Create client 
+
+- Do not need to create customer, if customer have created.
 
 ---
 
-## Create client
 
 1. First you need to login to teller.mmis.ounch.com with your username and password.
 

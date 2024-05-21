@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Sale process - Step two
+# Sale - Create transactions
+
+### Create transactions
 
 ---
-
-## Create transactions
 
 
 1. Click client to navigate into the page.
